@@ -1,5 +1,5 @@
 <H3>NAME:A.J.PRANAV </H3>
-<H3>REGISTER NO.:212222230107</H3>
+<H3>REGISTER NO. 212222230107</H3>
 <H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 <H3>Algorithm:</H3>
 Step 1: Define the state transition model F, the observation model H, the process noise covariance Q, the measurement noise covariance R, the initial state estimate x0, and the initial error covariance P0.<BR>
